@@ -1,3 +1,3 @@
-$("p").click(function(e){
+$("p").click(function(){
     $(this).hide();
 });
